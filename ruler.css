@@ -1,0 +1,24 @@
+body
+{
+	background-image: url(math.png);
+}
+
+.col-xs-4
+{
+   border:5px dashed;
+   border-color: #404040;
+   border-radius: 15px;
+   padding: 5px;
+   margin: 60px;
+   padding: 10px
+}
+
+.container
+{
+   border:5px dashed;
+   border-color: #404040;
+   border-radius: 15px;
+   padding: 5px;
+   margin: 50px;
+   padding: 10px
+}
